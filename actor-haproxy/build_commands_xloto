@@ -1,0 +1,2 @@
+docker build --no-cache=true -f Dockerfile -t diegosiuniube/server-tls:0.0.2 .
+docker push diegosiuniube/server-tls:0.0.2
